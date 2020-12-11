@@ -11,6 +11,7 @@ library(xts)
 library(forecast)
 library(fpp2)
 library(TSA)
+librart(tseries)
 
 ##################################
 ### Enviroment set up and data cleaning
