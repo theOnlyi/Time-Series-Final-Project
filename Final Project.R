@@ -14,7 +14,7 @@ library(TSA)
 
 ##################################
 ### Enviroment set up and data cleaning
-setwd("/Users/yihao/Desktop/Yihao/Wentworth/Mathmatics /MATH2250 TIme Series/Project/Final Project")
+setwd("...")
 sh_plate<-read.csv("shanghai_plate_price.csv")
 sh_plate<-sh_plate[,c(-2,-3,-5)]
 #View(sh_plate)
